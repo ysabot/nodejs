@@ -1,0 +1,9 @@
+{
+  "domain":{
+	
+	"match" : "http://www.izlemachd.com",
+	"guess" : "mactutar.com",
+	"tv"	: "canlitvbu.com",
+	"movie" : "https://www.dizimin.com"
+	}
+}
