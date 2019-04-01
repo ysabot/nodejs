@@ -1,7 +1,18 @@
 {
-  "bein-sports-1" : "https://x.mahmutciftpeynir.cf/edge/601/chunks.m3u8",
-  "bein-sports-2" : "https://x.mahmutciftpeynir.cf/edge/602/chunks.m3u8",
-  "bein-sports-3" : "https://x.mahmutciftpeynir.cf/edge/603/chunks.m3u8",
-  "bein-sports-4" : "https://x.mahmutciftpeynir.cf/edge/604/chunks.m3u8"
-  
+  "bein-sports-1" :
+      [
+      "https://x.mahmutciftpeynir.cf/edge/601/chunks.m3u8"
+      ],
+  "bein-sports-2" :
+      [
+      "https://x.mahmutciftpeynir.cf/edge/601/chunks.m3u8"
+      ],
+  "bein-sports-3" :
+      [
+      "https://x.mahmutciftpeynir.cf/edge/601/chunks.m3u8"
+      ],
+  "bein-sports-4" :
+      [
+      "https://x.mahmutciftpeynir.cf/edge/601/chunks.m3u8"
+      ]
 }
